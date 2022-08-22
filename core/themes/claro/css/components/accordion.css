@@ -23,8 +23,8 @@
 	border-radius: 0
 }
 
-.accordion__item:first-child,
-.accordion__item:last-child {
+.accordion .accordion__item:first-child,
+.accordion .accordion__item:last-child {
 	border-top-left-radius: 2px;
 	border-top-right-radius: 2px;
 }
