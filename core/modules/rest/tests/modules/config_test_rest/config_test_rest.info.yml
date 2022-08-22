@@ -1,0 +1,11 @@
+name: 'Configuration test REST'
+type: module
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:config_test
+
+# Information added by Drupal.org packaging script on 2022-08-17
+version: '9.5.x-dev'
+project: 'drupal'
+datestamp: 1660735355
