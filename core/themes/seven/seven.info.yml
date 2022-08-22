@@ -13,6 +13,8 @@
 # changes.
 name: Seven
 type: theme
+lifecycle: deprecated
+lifecycle_link: https://www.drupal.org/node/3223395#s-seven
 base theme: false
 description: 'The default administration theme for Drupal 8 was designed with clean lines, simple blocks, and sans-serif font to emphasize the tools and tasks at hand.'
 alt text: 'Default administration theme for Drupal 8 with simple blocks and clean lines.'
@@ -101,7 +103,7 @@ regions_hidden:
 ckeditor_stylesheets:
   - css/classy/components/media-embed-error.css
 
-# Information added by Drupal.org packaging script on 2022-08-17
+# Information added by Drupal.org packaging script on 2022-08-21
 version: '9.5.x-dev'
 project: 'drupal'
-datestamp: 1660735355
+datestamp: 1661100727
