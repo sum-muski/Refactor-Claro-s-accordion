@@ -21,11 +21,11 @@
        border-top-left-radius: var(--details-accordion-border-size-radius);
        border-top-right-radius: var(--details-accordion-border-size-radius);
      }
- 
-     .claro-details__summary .summary {
-       display: block;
-       color: var(--color-gray-800);
-       font-weight: normal;
-     }
    }
+ }
+ 
+ .claro-details__summary .summary {
+   display: block;
+   color: var(--color-gray-800);
+   font-weight: normal;
  }
